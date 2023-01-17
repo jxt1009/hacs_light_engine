@@ -1,0 +1,11 @@
+{
+  "codeowners": ["jtoper"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/user/my_component/",
+  "domain": "doma",
+  "iot_class": "local_polling",
+  "name": "Light Engine",
+  "requirements": [],
+  "version": "1.0.0"
+}
